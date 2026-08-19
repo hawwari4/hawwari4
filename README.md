@@ -12,5 +12,5 @@ AI Engineer focused on computer vision, LLM applications, and AI backend develop
 - Arabic language AI tools
 
 ## Reach me
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: [https://www.linkedin.com/in/abdelrahman-mohamed2021/]
+- Email: [abdelrahman.mohamed1492@gmail.com]
