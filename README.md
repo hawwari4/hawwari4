@@ -3,7 +3,7 @@
 AI Engineer focused on computer vision, LLM applications, and AI backend development.
 
 - 🎓 Computer Engineering graduate, Qatar University
-- 🧠 Experience with computer vision, RAG systems, and Arabic NLP
+- 🧠 Experience with computer vision and Arabic NLP
 - 📍 Based in Doha, Qatar
 
 ## What I work on
